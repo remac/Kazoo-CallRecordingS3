@@ -1,9 +1,8 @@
 {
-  "name": "kazoo-recordings3",
+  "name": "kazoo-callrecordings3",
   "version": "0.0.1",
   "description": "Store your kazoo recordings to S3",
   "main": "server.js",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
