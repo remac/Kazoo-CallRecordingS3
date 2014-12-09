@@ -1,0 +1,16 @@
+{
+  "name": "kazoo-recordings3",
+  "version": "0.0.1",
+  "description": "Store your kazoo recordings to S3",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arek Fryz <arek@remacenterprises.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.0.30",
+    "restify": "^2.8.3"
+  }
+}
